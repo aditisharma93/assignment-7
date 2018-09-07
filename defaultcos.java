@@ -11,7 +11,7 @@ class abc
       this();
     }
 }
-class  DefaultCons{
+class  defaultcos{
     public static void main(String [] aa){
        abc c=new abc(10);
     }
