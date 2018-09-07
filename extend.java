@@ -12,7 +12,7 @@ class Child extends prnt{
     super.prt();
   }
 }
-class inv{
+class extend{
   public static void main(String [] args){
     Child cc=new Child();
   }
