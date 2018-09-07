@@ -1,15 +1,15 @@
 import java.util.*;
 import java.lang.*;
-final class Parent
+final class fin
 {
-    Parent(){
+    fin(){
      System.out.println("This is final class :)");   
     }
 }
-class  Fin
+class  parent
 {
     public static void main(String [] args)
     {
-    Parent p=new Parent();
+    fin p=new fin();
     }
 }
